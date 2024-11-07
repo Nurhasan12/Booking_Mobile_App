@@ -23,7 +23,7 @@ lib/
 1. Pastikan Flutter telah diinstal pada komputer Anda.
 2. Klon repositori ini: 
    ```bash
-   git clone https://github.com/Nurhasan/Booking_Mobile_App.git
+   git clone https://github.com/Nurhasan12/Booking_Mobile_App.git
 3. Jalankan perintah berikut di dalam direktori proyek
    ```bash
    flutter pub get
